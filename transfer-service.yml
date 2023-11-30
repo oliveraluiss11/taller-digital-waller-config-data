@@ -1,5 +1,5 @@
 server:
-  port: 9002
+  port: 0
 spring:
   datasource:
     url: jdbc:postgresql://monorail.proxy.rlwy.net:17895/railway
